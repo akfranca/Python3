@@ -5,3 +5,5 @@ A)Apenas os 05 primeiros colocados.
 B)Os últimos 04 colocados da tabela.
 C)Uma lista com os times em ordem alfabética.
 D)Em que posição na tabela está o time chapecoense."""
+
+print('CAMPEONATO BRASILEIRO')
