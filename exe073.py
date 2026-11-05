@@ -7,3 +7,4 @@ C)Uma lista com os times em ordem alfabética.
 D)Em que posição na tabela está o time chapecoense."""
 
 print('CAMPEONATO BRASILEIRO')
+times = ('São Paulo', 'Santos')
